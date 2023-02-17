@@ -12,6 +12,7 @@ categories = ["network-programming", "cryptography"]
 
 [dependencies]
 rustls-pemfile = "1"
+sha2 = "0.10.6"
 
 [dev-dependencies]
 webpki = "0.22"
